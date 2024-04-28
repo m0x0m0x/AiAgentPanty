@@ -1,6 +1,8 @@
 
+<details>
+<summary> 👃 </summary>
 <img src="https://i.postimg.cc/CM746GYS/image.png" align="center" width="100%">
-
+</details>
 # AiAgentPanty
 
 > This repo for testing AI Agents and related. All python related testing is going to be done with kaggle
